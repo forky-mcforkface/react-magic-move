@@ -31,7 +31,7 @@
     "uglify-js": "^2.4.15",
     "uglifyjs": "^2.3.6",
     "webpack": "1.4.5",
-    "webpack-dev-server": "1.6.5"
+    "webpack-dev-server": "3.1.11"
   },
   "peerDependencies": {
     "react": "0.12.x"
